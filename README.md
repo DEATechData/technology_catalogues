@@ -7,3 +7,6 @@ To assess developments in the climate and energy sector, there is a need for tec
 
 The Technology Catalogues cover existing technologies, technologies under economic and technological development as well as technologies at the experimental stage, with emphasis placed on the first two categories. 
 Using the Danish Energy Agency’s model for calculating the levelized cost of electricity (LCoE) it is possible to compare costs across different technologies. 
+
+### License
+This work is licensed under Attribution 4.0 International 
